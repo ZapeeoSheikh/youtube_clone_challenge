@@ -5,9 +5,9 @@ This is Day 02 of this festival.
 
 ## Snapshots
 
-<!-- ![Screenshot_1645354694](https://user-images.githubusercontent.com/77886136/154839434-b8d7131a-cb1f-46f3-a178-3ff9b2dc87bf.png) ![Screenshot_1645354689](https://user-images.githubusercontent.com/77886136/154839436-a60fe9e9-990a-463c-b34d-15b63f9ca026.png)
- -->
-Will added soon
+![Screenshot_1645354694](https://user-images.githubusercontent.com/77886136/154839434-b8d7131a-cb1f-46f3-a178-3ff9b2dc87bf.png) ![Screenshot_1645354689](https://user-images.githubusercontent.com/77886136/154839436-a60fe9e9-990a-463c-b34d-15b63f9ca026.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

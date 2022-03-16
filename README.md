@@ -13,4 +13,4 @@ This is the project of Youtube Clone.
 ![WhatsApp Image 2022-03-16 at 11 58 03 PM](https://user-images.githubusercontent.com/77886136/158666546-55acc1ee-bb9f-4e07-b53a-9235a1678ddb.jpeg)
 
 
-Share your love by liking this repository ❤️
+**Share your ❤️ by staring this repository**
